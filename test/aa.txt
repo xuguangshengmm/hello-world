@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-aaaaaaaaaa
+aaaaaaaaaa branch 5
 
 master
-=======
-aaaaaaaaaa branch 5
->>>>>>> 9a544d15cc543b5aa524223882da65e7668b9875
